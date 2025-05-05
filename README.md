@@ -3,6 +3,8 @@
 Este repositorio contiene una colección de scripts desarrollados en **Python con ArcPy**, diseñados para ser utilizados como herramientas personalizadas (*toolboxes*) dentro de entornos de **ArcGIS Desktop/Pro**.
 
 ## 📁 Estructura del Repositorio
+```plaintext
+📦 Arcpy-Toolboxes
 scripts/
 ├── herramienta_1.py
 ├── herramienta_2.py
