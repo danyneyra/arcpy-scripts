@@ -14,7 +14,7 @@ toolboxes/
 docs/
 ├── ejemplos/
 ├── imágenes/
-
+```
 
 - `scripts/`: Contiene los scripts `.py` individuales que implementan la lógica de cada herramienta.
 - `toolboxes/`: Almacena los archivos `.atbx` o `.pyt` configurados para usar los scripts.
